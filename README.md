@@ -6,6 +6,7 @@ El sistema Experiencias Significativas es una solución tecnológica diseñada p
 La plataforma busca digitalizar, estandarizar y optimizar los procesos asociados a la postulación, evaluación, seguimiento y visibilidad de experiencias significativas, garantizando seguridad, trazabilidad y usabilidad para todos los actores involucrados.
 
 
+
 Módulo	Descripción	Enlace
 
 Experiencias-significativas-Api	    https://github.com/Mari2303/Experiencias-Significativas-Api.git
@@ -13,6 +14,7 @@ Experiencias-significativas-Api	    https://github.com/Mari2303/Experiencias-Sig
 Experiencias-significativas-portal	https://github.com/Cata10cometta/Experiencias-Significativas-portal.git
 
 Experiencias-Significativas-MAUI		https://github.com/merari0322/Experiencias-Significativas-MAUI.git
+
 
 
 Objetivo General
