@@ -7,6 +7,7 @@ La plataforma busca digitalizar, estandarizar y optimizar los procesos asociados
 
 
 Módulo	Descripción	Enlace
+
 Experiencias-significativas-Api	    https://github.com/Mari2303/Experiencias-Significativas-Api.git
 
 Experiencias-significativas-portal	https://github.com/Cata10cometta/Experiencias-Significativas-portal.git
@@ -15,6 +16,7 @@ Experiencias-Significativas-MAUI		https://github.com/merari0322/Experiencias-Sig
 
 
 Objetivo General
+
 Desarrollar una plataforma integral que permita gestionar el proceso de registro, evaluación y seguimiento de experiencias significativas, facilitando la administración y toma de decisiones en instituciones educativas.
 
 
