@@ -9,7 +9,7 @@ La plataforma busca digitalizar, estandarizar y optimizar los procesos asociados
 
 Módulo	Descripción	Enlace
 
-Experiencias-significativas-Api	    https://github.com/Mari2303/Experiencias-Significativas-Api.git
+Experiencias-significativas-Api	    https://github.com/Mari2303/Experiencia-significativa-API.git
 
 Experiencias-significativas-portal	https://github.com/Cata10cometta/Experiencias-Significativas-Portal.git
 
